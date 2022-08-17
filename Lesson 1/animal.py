@@ -1,8 +1,8 @@
 # Variables
-Name='Lion'
-munLegs=4
-hasFur=True
-height=1.2
+Name = 'Lion'
+munLegs = 4
+hasFur = True
+height = 1.2
 
 # Prepare Print Statement
 print(type(name))
