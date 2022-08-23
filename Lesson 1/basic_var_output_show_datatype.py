@@ -2,7 +2,7 @@
 # Variables, data types
 
 # Declaration of Variables
-Name = 'Lion'
+name = 'Lion'
 munLegs = 4
 hasFur = True
 height = 1.2
