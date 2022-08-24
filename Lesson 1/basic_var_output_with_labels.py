@@ -3,7 +3,7 @@
 
 # Declaration of Variables
 name = 'Lion'
-munLegs = 4
+numLegs = 4
 hasFur = True
 height = 1.2
 
