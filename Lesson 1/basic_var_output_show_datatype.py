@@ -3,12 +3,12 @@
 
 # Declaration of Variables
 name = 'Lion'
-munLegs = 4
+numLegs = 4
 hasFur = True
 height = 1.2
 
 # Output data type to Screen
 print(type(name))
-print(type(munLegs))
+print(type(numLegs))
 print(type(hasFur))
 print(type(height))
